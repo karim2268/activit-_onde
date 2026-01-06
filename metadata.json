@@ -1,0 +1,5 @@
+{
+  "name": "Physique Interactive : Les Ondes",
+  "description": "Une application web interactive pour les élèves de Terminale permettant d'explorer les ondes progressives sinusoïdales à travers des simulations et des exercices d'application.",
+  "requestFramePermissions": []
+}
